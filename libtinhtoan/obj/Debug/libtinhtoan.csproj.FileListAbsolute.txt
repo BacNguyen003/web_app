@@ -1,0 +1,6 @@
+E:\C#\NET\Thue\bac\libtinhtoan\bin\Debug\libtinhtoan.dll
+E:\C#\NET\Thue\bac\libtinhtoan\bin\Debug\libtinhtoan.pdb
+E:\C#\NET\Thue\bac\libtinhtoan\obj\Debug\libtinhtoan.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\bac\libtinhtoan\obj\Debug\libtinhtoan.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\bac\libtinhtoan\obj\Debug\libtinhtoan.dll
+E:\C#\NET\Thue\bac\libtinhtoan\obj\Debug\libtinhtoan.pdb
